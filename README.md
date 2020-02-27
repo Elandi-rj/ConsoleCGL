@@ -1,3 +1,4 @@
 # ConsoleCGL
  <p>Conway's Game of Life displayed in the console</p>
- <img src="http://puu.sh/FdEJp/f0c1a857b7.png" >
+
+[![](http://img.youtube.com/vi/dl1XBsITb1w/0.jpg)](http://www.youtube.com/watch?v=dl1XBsITb1w "")
